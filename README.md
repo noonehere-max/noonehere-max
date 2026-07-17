@@ -11,7 +11,7 @@
 - Trabajo medio tiempo en un **OXXO**; el resto del día lo dedico a estudiar programación.
 - Actualmente aprendiendo **Kotlin**, **HTML5** y **CSS3**.
 - Próximamente: **Xcode / Swift** — sigo ahorrando para mi Mac.
-- Entusiasta de la lectura y 🎵 de la música.
+- Entusiasta de la lectura y de la música.
 - La filosofía me recuerda que programar también es una forma de pensar.
 
 ---
