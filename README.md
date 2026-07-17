@@ -1,9 +1,6 @@
 # ¡Hola! Soy Carlos Gabriel Placito Llamas
 
 ### Programador Junior · Entusiasta de la informática y la filosofía
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Programador+junior+en+formaci%C3%B3n;Aprendiendo+Kotlin%2C+HTML5+y+CSS3;La+filosof%C3%AD+tambi%C3%A9n+se+programa+%F0%9F%A4%94)](https://git.io/typing-svg)
-
 </div>
 
 ---
