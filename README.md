@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Carlos Gabriel Placito Llamas
+# ¡Hola! Soy Carlos Gabriel Placito Llamas
 
 ### Programador Junior · Entusiasta de la informática y la filosofía
 
@@ -8,18 +8,18 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
-- 💻 Programador junior, en aprendizaje constante.
-- 🏪 Trabajo medio tiempo en un **OXXO**; el resto del día lo dedico a estudiar programación.
-- 🌱 Actualmente aprendiendo **Kotlin**, **HTML5** y **CSS3**.
-- 🍎 Próximamente: **Xcode / Swift** — sigo ahorrando para mi Mac. 😅
-- 📖 Entusiasta de la lectura y 🎵 de la música.
-- 🤔 La filosofía me recuerda que programar también es una forma de pensar.
+- Programador junior, en aprendizaje constante.
+- Trabajo medio tiempo en un **OXXO**; el resto del día lo dedico a estudiar programación.
+- Actualmente aprendiendo **Kotlin**, **HTML5** y **CSS3**.
+- Próximamente: **Xcode / Swift** — sigo ahorrando para mi Mac. 😅
+- Entusiasta de la lectura y 🎵 de la música.
+- La filosofía me recuerda que programar también es una forma de pensar.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 Mis estadísticas
+## Mis estadísticas
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 ## ⚡ Dato curioso
 
-📱 Mi *daily driver* es un **Sony Xperia XZ "Glazer"** — un clásico que se niega a morir, igual que mis ganas de aprender.
+ Mi *daily driver* es un **Sony Xperia XZ ** — un clásico que se niega a morir, igual que mis ganas de aprender.
 
 ---
 
