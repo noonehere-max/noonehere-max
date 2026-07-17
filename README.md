@@ -35,15 +35,6 @@
 
  Fanboy de Sony, i have an Xperia XZ btw
 
----
-
-<div align="center">
-
-> *"Solo sé que no sé nada."* — Sócrates
->
-> *(Todo buen programador junior debería tatuarse esta frase.)*
-
-</div>
 
 <!--
 **noonehere-max/noonehere-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
