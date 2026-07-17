@@ -13,7 +13,7 @@
 - Programador junior, en aprendizaje constante.
 - Trabajo medio tiempo en un **OXXO**; el resto del día lo dedico a estudiar programación.
 - Actualmente aprendiendo **Kotlin**, **HTML5** y **CSS3**.
-- Próximamente: **Xcode / Swift** — sigo ahorrando para mi Mac. 😅
+- Próximamente: **Xcode / Swift** — sigo ahorrando para mi Mac.
 - Entusiasta de la lectura y 🎵 de la música.
 - La filosofía me recuerda que programar también es una forma de pensar.
 
@@ -34,23 +34,9 @@
 
 ---
 
-## Mis estadísticas
+## Dato
 
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
-![Racha de contribuciones](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
-
----
-
-## ⚡ Dato curioso
-
- Mi *daily driver* es un **Sony Xperia XZ ** — un clásico que se niega a morir, igual que mis ganas de aprender.
+ Fanboy de Sony, i have an Xperia XZ btw
 
 ---
 
